@@ -7,7 +7,7 @@ package example;
 
 /**
  *
- * @author HEMANT KUMAR
+ * @author AMIT KUMAR
  */
 public class Addition {
 
